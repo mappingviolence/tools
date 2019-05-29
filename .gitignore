@@ -1,0 +1,2 @@
+# Don't expose the data over Github accidently
+data-dump-email/data.json
