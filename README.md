@@ -8,3 +8,4 @@ Invoke the command by running in the root of this repository:
 ```bash
 ./data-dump-email/data-dump-email.sh
 ```
+The script does not work if you invoke it from the child directory. Pull requests welcome to fix this.
